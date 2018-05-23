@@ -1,0 +1,5 @@
+cpp/bin/
+cpp/src/obj/*.o
+*.o
+chronica
+
