@@ -1,0 +1,20 @@
+{
+    "characters" : [
+        {
+            "name": "アール",
+            "gender": "male"
+        },{
+            "name": "ブライ",
+            "gender": "male"
+        },{
+            "name": "カナン",
+            "gender": "female"
+        },{
+            "name": "ディノス",
+            "gender": "male"
+        },{
+            "name": "ディルナ",
+            "gender": "female"
+        }
+    ]
+}
