@@ -15,6 +15,33 @@
         },{
             "name": "ディルナ",
             "gender": "female"
+        },{
+            "name": "エヴァ",
+            "gender": "female"
+        },{
+            "name": "フィーナ",
+            "gender": "female"
+        },{
+            "name": "グランテール",
+            "gender": "male"
+        },{
+            "name": "ノール",
+            "gender": "male"
+        },{
+            "name": "アルドー",
+            "gender": "male"
+        },{
+            "name": "ミント",
+            "gender": "female"
+        },{
+            "name": "リエラ",
+            "gender": "female"
+        },{
+            "name": "ナージャン",
+            "gender": "female"
+        },{
+            "name": "ニヘナラ",
+            "gender": "female"
         }
     ]
 }
