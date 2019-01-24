@@ -1,4 +1,5 @@
 cpp/bin/
+cpp/build/
 cpp/src/obj/*.o
 *.o
 chronica
