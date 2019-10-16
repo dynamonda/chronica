@@ -2,46 +2,80 @@
     "characters" : [
         {
             "name": "アール",
-            "gender": "male"
+            "gender": "male",
+            "source": "original"
         },{
             "name": "ブライ",
-            "gender": "male"
+            "gender": "male",
+            "source": "original"
         },{
             "name": "カナン",
-            "gender": "female"
+            "gender": "female",
+            "source": "original"
         },{
             "name": "ディノス",
-            "gender": "male"
+            "gender": "male",
+            "source": "original"
         },{
             "name": "ディルナ",
-            "gender": "female"
+            "gender": "female",
+            "source": "original"
         },{
             "name": "エヴァ",
-            "gender": "female"
+            "gender": "female",
+            "source": "original"
         },{
             "name": "フィーナ",
-            "gender": "female"
+            "gender": "female",
+            "source": "original"
         },{
             "name": "グランテール",
-            "gender": "male"
+            "gender": "male",
+            "source": "original"
         },{
-            "name": "ノール",
-            "gender": "male"
+            "name": "ディハド",
+            "gender": "male",
+            "source": "original"
         },{
             "name": "アルドー",
-            "gender": "male"
+            "gender": "male",
+            "source": "original"
         },{
             "name": "ミント",
-            "gender": "female"
+            "gender": "female",
+            "source": "original"
         },{
             "name": "リエラ",
-            "gender": "female"
+            "gender": "female",
+            "source": "original"
         },{
             "name": "ナージャン",
-            "gender": "female"
+            "gender": "female",
+            "source": "original"
         },{
             "name": "ニヘナラ",
-            "gender": "female"
+            "gender": "female",
+            "source": "original"
+        },{
+            "name": "ユーディル",
+            "gender": "male",
+            "source": "dragalialost"
+        },{
+            "name": "エルフィリス",
+            "gender": "female",
+            "source": "dragalialost"
+        },{
+            "name": "ランザーヴ",
+            "gender": "male",
+            "source": "dragalialost"
+        },{
+            "name": "クラウ",
+            "gender": "female",
+            "source": "dragalialost"
+        },{
+            "name": "リュカ",
+            "gender": "male",
+            "source": "dragalialost"
         }
     ]
 }

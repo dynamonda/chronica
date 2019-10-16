@@ -4,3 +4,4 @@ cpp/src/obj/*.o
 *.o
 chronica
 
+lib/

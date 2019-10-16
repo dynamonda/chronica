@@ -5,6 +5,13 @@ import json
 
 JSON_FILE = 'data/test_charaindex.json'
 
+class Character(object):
+    """A character"""
+    def __init__(self, name, gender):
+        self.name = name
+        self.gender = gender
+
+
 def children_num(percentage=0.5):
     """Return children born num
     Args:
