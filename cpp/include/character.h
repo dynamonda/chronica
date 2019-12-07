@@ -2,6 +2,7 @@
 #define _INCLUDE_CHARACTER_H_
 
 #include <string>
+#include <memory>
 
 enum class Gender{
     Male,
@@ -13,7 +14,7 @@ public:
     Character();
     
 private:
-    std::string name_;
+    std::unique_ptr<std::string> name_;
     Gender gender_;
 };
 
