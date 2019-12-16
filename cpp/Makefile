@@ -1,15 +1,15 @@
 COMPILER = g++
 CFLAGS   = -g -Wall -O2 -std=c++14
 LDFLAGS  =
-LIBS     =
+LIBS     = -L./lib -llua
 INCLUDE  = -I./include
 TARGET   = ./bin/chronica
 OBJDIR   = ./src/obj
 SOURCES  = $(wildcard src/*.cc)
 OBJECTS  = $(subst ./src/obj/src, ./src/obj, $(addprefix $(OBJDIR)/, $(SOURCES:.cc=.o)))
 
-$(TARGET): $(OBJECTS) $(LIBS)
-	$(COMPILER) -o $@ $^ $(LDFLAGS)
+$(TARGET): $(OBJECTS)
+	$(COMPILER) -o $@ $^ $(LDFLAGS) $(LIBS)
 
 $(OBJDIR)/%.o: src/%.cc
 	@[ -d $(OBJDIR) ]

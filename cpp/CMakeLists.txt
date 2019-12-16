@@ -9,8 +9,14 @@ add_executable(chronica
     src/main.cc
     include/character.h
     src/character.cc
+    include/api.h
+    include/lua_loader.hpp
+    include/lua/*.c
+    include/lua/*.h*
 )
 
 include_directories(
-    include src
+    include
+    src
+    include/lua
 )
