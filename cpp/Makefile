@@ -1,7 +1,7 @@
 COMPILER = g++
 CFLAGS   = -g -Wall -O2 -std=c++14
 LDFLAGS  =
-LIBS     = -L./lib -llua
+LIBS     = -L./lib -llua -lsqlite3
 INCLUDE  = -I./include
 TARGET   = ./bin/chronica
 OBJDIR   = ./src/obj
