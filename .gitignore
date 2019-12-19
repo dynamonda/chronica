@@ -4,4 +4,6 @@ cpp/src/obj/*.o
 *.o
 chronica
 
-lib/
+skill.md
+
+lib/picojson/
