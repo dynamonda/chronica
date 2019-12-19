@@ -1,0 +1,12 @@
+{
+  "version": "0.2.1",
+  "defaults": {},
+  "configurations": [
+    {
+      "type": "default",
+      "project": "cpp\\CMakeLists.txt",
+      "projectTarget": "chronica.exe",
+      "name": "chronica.exe"
+    }
+  ]
+}
