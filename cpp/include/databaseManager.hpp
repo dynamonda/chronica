@@ -1,7 +1,7 @@
 #ifndef _CHRONICA_CPP_INCLUDE_DATABASEMANAGER_HPP_
 #define _CHRONICA_CPP_INCLUDE_DATABASEMANAGER_HPP_
 
-#include "sqlite3.h"
+#include "./sqlite/sqlite-src-3300100/sqlite3.h"
 #include <iostream>
 
 const char* const dbname_ = "../../db.sqlite3";

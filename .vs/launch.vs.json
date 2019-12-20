@@ -7,6 +7,12 @@
       "project": "cpp\\CMakeLists.txt",
       "projectTarget": "chronica.exe",
       "name": "chronica.exe"
+    },
+    {
+      "type": "default",
+      "project": "cpp\\CMakeLists.txt",
+      "projectTarget": "chronica.exe (Debug\\chronica.exe)",
+      "name": "chronica.exe (Debug\\chronica.exe)"
     }
   ]
 }

@@ -7,3 +7,4 @@ chronica
 skill.md
 
 lib/picojson/
+*.log
